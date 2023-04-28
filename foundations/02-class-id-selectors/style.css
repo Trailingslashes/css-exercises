@@ -1,0 +1,19 @@
+#increase-font.p-element {
+	font-size: 24px;
+}
+
+.p-element {
+	background-color: #FFA7A7;
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#blue {
+	color: blue;
+	font-size: 36px;
+}
+
+#green {
+	background-color: #80FF80;
+	font-size: 24px;
+	font-weight: bold;
+}
